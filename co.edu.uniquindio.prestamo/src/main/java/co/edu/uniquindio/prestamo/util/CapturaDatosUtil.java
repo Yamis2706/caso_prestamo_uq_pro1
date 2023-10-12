@@ -4,6 +4,8 @@ import javax.swing.*;
 
 public class CapturaDatosUtil {
 
+    //señor nimbus
+    
     /**
      * Este método sirve para imprimir un mensaje con la libreria JOptionPane
      * @param mensaje

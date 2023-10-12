@@ -1,0 +1,8 @@
+co\edu\uniquindio\prestamo\model\Objeto.class
+co\edu\uniquindio\prestamo\model\Empleado.class
+co\edu\uniquindio\prestamo\MainMenu.class
+co\edu\uniquindio\prestamo\model\Prestamo.class
+co\edu\uniquindio\prestamo\Main.class
+co\edu\uniquindio\prestamo\model\PrestamoUq.class
+co\edu\uniquindio\prestamo\util\CapturaDatosUtil.class
+co\edu\uniquindio\prestamo\model\Cliente.class
